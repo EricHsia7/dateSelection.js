@@ -32,4 +32,7 @@ dateSelectionjsfn('#i1,#i2');
 </body>
 </html>
 ```
+[Demo](https://erichsia7.github.io/dateSelection.js/demo.html)
+## download
+[dateSelection.js](https://github.com/EricHsia7/dateSelection.js/raw/main/dateSelection.js)
 
