@@ -89,6 +89,3 @@ $('.date-selection-cr #add').click(function() {
 });
   });
 }
-
-
-dateSelectionjsfn('#i1,#i2');
