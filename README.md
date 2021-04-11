@@ -1,10 +1,18 @@
 # dateSelection.js
-
-##start
+## install
+JQuery
+```
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+```
+dateSelection.js
+```
+<script src="https://erichsia7.github.io/dateSelection.js/dateSelection.js"></script>
+```
+## use
 ```
 dateSelectionjsfn('#i1,#i2');
 ```
-##exp
+## example
 ```
 <!DOCTYPE html>
 <html lang="zh-tw">
@@ -24,3 +32,4 @@ dateSelectionjsfn('#i1,#i2');
 </body>
 </html>
 ```
+
